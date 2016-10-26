@@ -13,6 +13,13 @@ module.exports = function(environment) {
       }
     },
 
+    firebase: {
+      apiKey: "AIzaSyCRHlqn6uy_6lvYXXb2RjJMV-6b8EWswj8",
+      authDomain: "wine-oclock-blog.firebaseapp.com",
+      databaseURL: "https://wine-oclock-blog.firebaseio.com",
+      storageBucket: "wine-oclock-blog.appspot.com",
+    },
+
     APP: {
       // Here you can pass flags/options to your application instance
       // when it is created

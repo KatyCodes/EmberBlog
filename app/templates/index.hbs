@@ -1,2 +1,8 @@
+<ul>
+  {{#each model as |post|}}
+    <li>{{post.title}}</li>
+  {{/each}}
+</ul>
+
 {{#link-to 'about'}}<p>About</p>{{/link-to}}
 {{#link-to 'contact'}}<p>Contact</p>{{/link-to}}

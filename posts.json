@@ -1,0 +1,23 @@
+{ "posts": [{
+    "title": "Which wine pairs best with Game of Thrones Season 7?",
+    "date": "Oct. 9th",
+    "author": "Katy",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse purus leo, tempus nec lobortis non, suscipit vel sapien. Pellentesque eget lectus quis lacus suscipit tincidunt eget et metus. Sed pretium, augue non tempor sagittis, tortor risus suscipit turpis, vitae fermentum odio urna sit amet lectus. Praesent lorem nisi, hendrerit vitae tempor vitae, commodo et est. In quis ex vel lectus placerat volutpat eu id risus. Praesent lorem lorem, luctus et auctor in, ultricies nec est. Maecenas ligula urna, gravida sit amet nisi vel, rhoncus tempus tortor. Mauris luctus volutpat dolor, ac tincidunt libero varius non. Integer ac magna justo.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg",
+    "category": "Wine"
+  }, {
+    "title": "Can wine make your life better? Some doctors say yes!",
+    "date": "Aug. 19th",
+    "author": "Molly",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse purus leo, tempus nec lobortis non, suscipit vel sapien. Pellentesque eget lectus quis lacus suscipit tincidunt eget et metus. Sed pretium, augue non tempor sagittis, tortor risus suscipit turpis, vitae fermentum odio urna sit amet lectus. Praesent lorem nisi, hendrerit vitae tempor vitae, commodo et est. In quis ex vel lectus placerat volutpat eu id risus. Praesent lorem lorem, luctus et auctor in, ultricies nec est. Maecenas ligula urna, gravida sit amet nisi vel, rhoncus tempus tortor. Mauris luctus volutpat dolor, ac tincidunt libero varius non. Integer ac magna justo.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg",
+    "category": "Wine"
+  }, {
+    "title": "Best wine to deal with your current relationship status.",
+    "date": "Oct. 9th",
+    "author": "Molly",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse purus leo, tempus nec lobortis non, suscipit vel sapien. Pellentesque eget lectus quis lacus suscipit tincidunt eget et metus. Sed pretium, augue non tempor sagittis, tortor risus suscipit turpis, vitae fermentum odio urna sit amet lectus. Praesent lorem nisi, hendrerit vitae tempor vitae, commodo et est. In quis ex vel lectus placerat volutpat eu id risus. Praesent lorem lorem, luctus et auctor in, ultricies nec est. Maecenas ligula urna, gravida sit amet nisi vel, rhoncus tempus tortor. Mauris luctus volutpat dolor, ac tincidunt libero varius non. Integer ac magna justo.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg",
+    "category": "Wine"
+    }]
+  }
