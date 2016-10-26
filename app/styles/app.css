@@ -6,3 +6,57 @@ img {
 div:hover {
   text-decoration: none;
 }
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+#brand-pic {
+  height: 80px;
+  width: auto;
+  padding: 10px;
+}
+
+#brand-pic:hover {
+  padding: 7px;
+}
+
+#brand-pic:hover span {
+  padding: 7px;
+
+}
+#navBarTitle {
+  font-size: 300%;
+  font-weight: bold;
+  color: black;
+  font-family: 'Yellowtail', cursive;
+  padding-top: 40px !important;
+}
+
+#navBarTitle:hover {
+  color: #575656;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #575656;
+}
+
+a:hover, a:visited, a:link, a:active {
+  text-decoration: none !important;
+}
+
+img  {
+  margin-left: 200px;
+}
+img:hover {
+  opacity: 0.5;
+}
+
+
+
+/*a:hover {
+  text-decoration: none !important;
+}*/

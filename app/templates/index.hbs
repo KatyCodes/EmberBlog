@@ -1,9 +1,7 @@
+{{new-post savePost2="savePost3"}}
+
 <ul>
   {{#each model as |post|}}
     {{post-tile post=post}}
   {{/each}}
 </ul>
-
-{{new-post savePost2="savePost3"}}
-{{#link-to 'about'}}<p>About</p>{{/link-to}}
-{{#link-to 'contact'}}<p>Contact</p>{{/link-to}}
