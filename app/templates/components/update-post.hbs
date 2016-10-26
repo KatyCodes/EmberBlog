@@ -1,0 +1,27 @@
+{{#if updatePostForm}}
+  <h3>Update Post</h3>
+  <div class="well">
+    <form>
+      <div class="form-group">
+        <label for="title">Title</label>
+        {{input value=title id="title" placeholder=post.title}}
+      </div>
+      <div class="form-group">
+        <label for="title">Category</label>
+        {{input value=category id="category" placeholder=post.category}}
+      </div>
+      <div class="form-group">
+        <label for="title">Image</label>
+        {{input value=image id="image" placeholder=post.image}}
+      </div>
+      <div class="form-group">
+        <label for="title">Content</label>
+        {{textarea value=content id="content"}}
+      </div>
+
+      <button class="btn" {{action 'update' post}}>Save</button>
+    </form>
+  </div>
+  {{else}}
+    <button class="btn" {{action 'updatePostForm'}}>Update</button>
+  {{/if}}
